@@ -1,0 +1,12 @@
+total 72
+-rwxr-xr-x  1 tobias  staff   77 Oct 22 19:20 1_print.sh
+-rwxr-xr-x  1 tobias  staff  108 Oct 22 19:19 2_variables.sh
+-rwxr-xr-x  1 tobias  staff  193 Oct 22 19:19 3_comments.sh
+-rwxr-xr-x  1 tobias  staff  194 Oct 22 19:19 4_conditionals.sh
+-rwxr-xr-x  1 tobias  staff  356 Oct 22 19:20 5_loops.sh
+-rwxr-xr-x  1 tobias  staff  233 Oct 22 19:20 6_strings.sh
+-rwxr-xr-x  1 tobias  staff  233 Oct 22 19:23 7_arithmetics.sh
+-rwxrwxrwx  1 tobias  staff  308 Nov 18 20:15 8_file_io.sh
+-rw-r--r--  1 tobias  staff    0 Nov 18 20:15 8_file_io.txt
+-rwxr-xr-x  1 tobias  staff  674 Oct 22 19:10 script1.sh
+more logs
